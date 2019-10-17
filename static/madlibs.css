@@ -1,9 +1,24 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     color: pink;
     font-family: georgia;
+    text-align: center;
+    background-color: beige;
+    padding: 0;
+    width: 10em;
+    height: 1em;
 }
 
 form {
     color:grey;
     font-family: georgia;
+}
+
+#submit {
+    margin-left: auto;
+    margin-right: auto;
 }
